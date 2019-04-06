@@ -4,4 +4,4 @@ My logic for doing the analysis job is to use a dictionary to record product ID 
 
 In the Python files, there are more detail comments in the code.
 
-When try to use the file from the resource called "order_products__train.csv", please make sure to download the file into the file input in the master branch, to be able to run the code with it. The download link is https://www.instacart.com/datasets/grocery-shopping-2017.
+**Very Important! When try to use the file from the resource called "order_products__train.csv", please make sure to download the file into the file input in the master branch, to be able to run the code with it. The download link is https://www.instacart.com/datasets/grocery-shopping-2017.
